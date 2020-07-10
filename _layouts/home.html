@@ -1,0 +1,53 @@
+---
+layout: compress
+---
+<!DOCTYPE html>
+<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if (IE 7)&!(IEMobile)]><html class="no-js lt-ie9 lt-ie8"><![endif]-->
+<!--[if (IE 8)&!(IEMobile)]><html class="no-js lt-ie9"><![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"><!--<![endif]-->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<script src='https://kit.fontawesome.com/a076d05399.js'></script>
+<head>
+    {% include head.html %}
+</head>
+<body>
+    {% include nav.html %}
+    <!-- Header -->
+    <header class="header flex" role="banner">
+        <div class="container animated fadeIn">
+            <div class="row">
+                    <a href="{{ site.url }}">
+                        <img src="{{ site.logo }}" class="img-circle zoombtn animated rotateIn">
+                    </a>
+                    <h3 class="title">
+                        <a class="zoombtn" href="{{ site.url }}">
+                        	<p style="font-size:2rem;font-weight:900">{{ site.title }}</p>
+			            </a>
+                    </h3>
+                    <hr class="hr-line">
+                    <h3 class="title">
+                        <a href="{{ site.url }}">
+                        	<p style="font-size:1rem;font-weight:500">{{ site.bio }}</p>
+			            </a>
+                    </h3>
+                    
+                  <hr class="hr-line">
+                  <h3 class="title">
+                         <a class="btn_main zoombtn" href="{{ site.url }}/about"><i class="fas fa-beer"></i>
+                         About me
+                         </a>
+                         <a class="btn_main zoombtn" href="{{ site.url }}/posts"><i class="fas fa-cogs"></i>
+                         Blog
+                         </a>
+                         <a class="btn_main zoombtn" href="{{ site.url }}/projects"><i class="fas fa-atom"></i>
+                         Projects
+                         </a>
+                 </h3>
+                {% include social-links.html %}
+            </div>
+        </div>
+    </header>
+    {% include scripts.html %}
+</body>
+</html>
