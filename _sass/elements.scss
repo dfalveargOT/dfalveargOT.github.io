@@ -136,12 +136,13 @@ img {
 .img_posts {
     border: 3px solid black;
     max-width: 100%;
-    height: auto;
+    max-height: 80%;
+	height: auto;
+    width: auto;
     display: block;
-    padding: 15px;
-    margin-bottom: 15px;
-    margin-top: 10px;
+
     box-sizing: border-box;
+    
     
 }
 .author-photo {
