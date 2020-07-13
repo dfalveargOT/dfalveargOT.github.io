@@ -22,7 +22,7 @@ body {
     font-weight: 900;
     font-size: 50;
 	@media #{$small} {
-	    background-image: none !important;
+	    //background-image: none !important;
 		background: $white;
 	}
 }
