@@ -23,7 +23,7 @@ body {
     font-size: 50;
 	@media #{$small} {
 	    //background-image: none !important;
-		background: $white;
+		background: $black;
 	}
 }
 * {
@@ -204,7 +204,13 @@ header .entry-meta {
 .feature {
     @include transition(.5s);
     @media #{$small} {
-        background-image: none !important;
+        color: white;
+        margin-left: -4rem;
+        margin-right: -4rem;
+        margin-top: -2rem;
+        background-color: rgba($black, 0.6);
+        background-blend-mode: multiply;
+        background-position: center center;
     }
     @media #{$medium} {
         color: white;
