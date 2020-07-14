@@ -22,8 +22,7 @@ body {
     font-weight: 900;
     font-size: 50;
 	@media #{$small} {
-	    //background-image: none !important;
-		background: $black;
+		background: $white;
 	}
 }
 * {
@@ -205,9 +204,11 @@ header .entry-meta {
     @include transition(.5s);
     @media #{$small} {
         color: white;
+        padding: 4em;
         margin-left: -4rem;
         margin-right: -4rem;
         margin-top: -2rem;
+        border-radius: 3px 3px 0 0;
         background-color: rgba($black, 0.6);
         background-blend-mode: multiply;
         background-position: center center;

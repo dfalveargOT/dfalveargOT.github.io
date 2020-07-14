@@ -1,14 +1,16 @@
 // content area
 .content {
-	@include font-size(20);
+	@include font-size(25);
 	padding: 0 2rem;
 	-moz-osx-font-smoothing: grayscale;
 	-webkit-font-smoothing: antialiased !important;
 	-moz-font-smoothing: antialiased !important;
 	text-rendering: optimizelegibility !important;
 	text-align: justify;
+    line-height: normal;
 	@media #{$small} {
 		padding: 0 .5em;
+        @include font-size(20);        
 	}
 }
 
@@ -18,11 +20,11 @@
 	font-weight: bolder;
 	> p {
 		text-align: center;
-		font-weight: bolder;
+		font-weight: bold;
 	}
 	> a > p {
 		text-align: center;
-		font-weight: bolder;
+		font-weight: bold;
 	}
 }
 .post-title {
@@ -52,8 +54,8 @@ h3.title a {
 		background: $white;
 		color: $color_shark;
 		a {
-			@include font-rem(20);
-			text-decoration: none;
+			@include font-rem(30);
+			text-decoration: inherit;
 			color: $color_shark;
 			font-weight: bolder;
             &:hover {
@@ -62,7 +64,9 @@ h3.title a {
 		}
 		p {
 			font-weight: lighter;
-			@include font-rem(16);
+            font-weight: normal;
+			//@include font-rem(16);
+            @include font-size(20); 
 		}
 	}
 }
