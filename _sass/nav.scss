@@ -138,6 +138,7 @@
 		-webkit-backface-visibility: hidden;
 		-moz-backface-visibility: hidden;
 		backface-visibility: hidden;
+        background-color: black;
 		@media #{$notsmall} {
 			@include border-radius(3px,3px,3px,3px);
 			max-height: 650px;

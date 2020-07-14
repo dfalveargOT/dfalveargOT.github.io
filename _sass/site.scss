@@ -19,7 +19,7 @@ body {
 	background-color: $bodycolor;
 	background-position: center center;
 	background-attachment: fixed;
-    font-weight: 900;
+    font-weight: normal;
     font-size: 50;
 	@media #{$small} {
 		background: $black;
@@ -75,7 +75,7 @@ body {
 /* Main central container */
 
 .container {
-	width: 43rem;
+	width: 45rem;
 	max-width: 800px;
 	padding-right: 15px;
 	padding-left: 15px;
@@ -88,7 +88,7 @@ body {
 	@include transition(.5s);
     opacity: 0.1;
 	@media #{$small} {
-		width: 90%;
+		width: 60%;
 	    box-shadow: none;
 	}
 	@media #{$medium} {
@@ -112,6 +112,25 @@ body {
 	margin: 4rem auto;
 	background: $white;
     background-color: rgba(220,220,220,0.4);
+    opacity: 0.1;
+	color: $color_tuatara;
+	padding: 2em;
+	border-radius: 3px;
+	box-shadow: 0 0 10px 0 rgba($color_shark,0.3);
+	@include transition(.5s);
+	@media #{$small} {
+		width: 90%;
+		padding: 2em 0;
+	    box-shadow: none;
+	}
+}
+
+.wrapper_post {
+	width: 100%;
+	max-width: 850px;
+	margin: 3rem auto;
+	background: $white;
+    //background-color: rgba(220,220,220,0.4);
     opacity: 0.1;
 	color: $color_tuatara;
 	padding: 2em;
@@ -203,10 +222,11 @@ header .entry-meta {
 .feature {
     @include transition(.5s);
     @media #{$small} {
-        color: white;
+        
         margin-left: -4rem;
         margin-right: -4rem;
         margin-top: -2rem;
+        border-radius: 3px 3px 0 0;
         background-color: rgba($black, 0.6);
         background-blend-mode: multiply;
         background-position: center center;
