@@ -222,10 +222,9 @@ header .entry-meta {
 .feature {
     @include transition(.5s);
     @media #{$small} {
-        
-        margin-left: -4rem;
-        margin-right: -4rem;
-        margin-top: -2rem;
+        color: white;
+        padding: 5em;
+        margin-top: -4rem;
         border-radius: 3px 3px 0 0;
         background-color: rgba($black, 0.6);
         background-blend-mode: multiply;
@@ -243,13 +242,13 @@ header .entry-meta {
         background-position: center center;
     }
     @media #{$notsmall} {
-        color: blue;
-        padding: 10em;
+        color: white;
+        padding: 7em;
         margin-left: -4rem;
         margin-right: -4rem;
         margin-top: -2rem;
         border-radius: 3px 3px 0 0;
-        background-color: rgba($black, 0.6);
+        background-color: rgba($black, 0.4);
         background-blend-mode: multiply;
         background-position: center center;
     }
