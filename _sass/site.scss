@@ -223,8 +223,10 @@ header .entry-meta {
     @include transition(.5s);
     @media #{$small} {
         color: white;
-        padding: 5em;
-        margin-top: -4rem;
+        padding: 4em;
+        margin-left: -1rem;
+        margin-right: -1rem;
+        margin-top: -2rem;
         border-radius: 3px 3px 0 0;
         background-color: rgba($black, 0.6);
         background-blend-mode: multiply;
