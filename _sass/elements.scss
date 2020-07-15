@@ -147,9 +147,10 @@ img {
     box-sizing: border-box;
     
     @media #{$small} {
-        max-width: 480px;
-        width: 90%;
+        max-width: 300px;
+        width: 60%;
         height: auto;
+	display: flex;
     }
 }
 .post-thumbnail {
