@@ -139,6 +139,7 @@ img {
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.6), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
     width: 100%;
     max-width: 900px;
+    min-height: 50vh; // ten percent of the view port
     height: auto;
     display: block;
     //padding: auto;
@@ -146,10 +147,11 @@ img {
     margin-bottom: 12px;
     background-size: cover;
     box-sizing: border-box;
-    
+    object-fit: cover;
     @media #{$small} {
         max-width: 480;
         width: 100%;
+        min-height: 50vh;
         height: auto;
         box-sizing: border-box;
     }
