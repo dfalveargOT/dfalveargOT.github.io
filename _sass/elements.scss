@@ -148,14 +148,17 @@ img {
     background-size: cover;
     box-sizing: border-box;
     object-fit: cover;
+    
     @media #{$small} {
         max-width: 100%;
         width: 100%;
         min-height: 35vh;
         height: auto;
+        margin-left: -30%;
         box-sizing: border-box;
     }
 }
+
 
 .post-thumbnail {
     width: 50%;
