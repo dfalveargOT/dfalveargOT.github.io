@@ -139,7 +139,7 @@ img {
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.6), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
     width: 100%;
     max-width: 100%;
-    min-height: 50vh; // ten percent of the view port
+    max-height: 50vh; // ten percent of the view port
     height: auto;
     display: block;
     //padding: auto;
@@ -152,11 +152,12 @@ img {
     @media #{$small} {
         max-width: 100%;
         width: 100%;
-        min-height: 35vh;
+        max-height: 30vh;
         height: auto;
         box-sizing: border-box;
     }
 }
+
 
 .post-thumbnail {
     width: 50%;
