@@ -135,22 +135,22 @@ img {
 }
 
 .img_posts {
-    border: 4px solid black;
+    border: 2px solid black;
     width: 100%;
     max-width: 900px;
     height: auto;
     display: block;
-    padding: -5px;
-    margin-top: 6px;
-    margin-bottom: 10px;
+    //padding: auto;
+    margin-top: auto;
+    margin-bottom: auto;
     background-size: cover;
     box-sizing: border-box;
     
     @media #{$small} {
-        max-width: 300px;
-        width: 60%;
+        max-width: 480;
+        width: 100%;
         height: auto;
-	display: flex;
+        box-sizing: border-box;
     }
 }
 .post-thumbnail {
