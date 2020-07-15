@@ -28,7 +28,7 @@ layout: compress
                         <li class="wow fadeInLeft" data-wow-duration="1.5s">
                              <article class="article">
                                 {% if post.img %}
-                                    <p><img src= url({{"/assets/img/"| prepend:site.baseurl | append : post.img}})" href="{{post.url | prepend: site.baseurl}}></p>
+                                    <p><img class=img_posts src={{site.baseurl}}/assets/img/post.img></p>
                                 
                                 {% else %}
                                 {% endif %}
