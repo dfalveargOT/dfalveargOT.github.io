@@ -88,7 +88,7 @@ body {
 	@include transition(.5s);
     opacity: 0.1;
 	@media #{$small} {
-		width: 88%;
+		width: 60%;
 	    box-shadow: none;
 	}
 	@media #{$medium} {

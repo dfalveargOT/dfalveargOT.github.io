@@ -26,9 +26,17 @@ layout: compress
                         {% if post.project %}
                     <ul>
                         <li class="wow fadeInLeft" data-wow-duration="1.5s">
-                            <a class="zoombtn" href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
-                            <p>{{ post.excerpt }}</p>
-                            <a href="{{ site.url }}{{ post.url }}" class="btn zoombtn">Read More</a>
+                             <article class="article">
+                                {% if post.img %}
+                                    <img class="img_posts" alt="nature" style="background-image: url({{"/assets/img/"| prepend:site.baseurl | append : post.img}})" href="{{post.url | prepend: site.baseurl}}">
+                                
+                                {% else %}
+                                {% endif %}
+                                <a class="zoombtn" href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
+                                
+                                <p>{{ post.excerpt }}</p>
+                                <a href="{{ site.url }}{{ post.url }}" class="btn zoombtn">Read More</a>
+                            </article>
                         </li>
                     </ul>
                       {% endif %}
