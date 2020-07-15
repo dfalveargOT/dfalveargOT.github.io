@@ -147,8 +147,8 @@ img {
     box-sizing: border-box;
     
     @media #{$small} {
-        max-width: 480;
-        width: 100%;
+        max-width: 480px;
+        width: 90%;
         height: auto;
     }
 }
