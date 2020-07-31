@@ -14,7 +14,7 @@ Proposal for clean energy generation using a thermodynamic closed-cycle to conve
 
 Nowadays, the energy production came in different forms, there is a major percent in the world that is produced by fossil fuels, as well as, the automotive sector is engaged with the oil as the main power, under those circumstances, there is a large budget invested to research in new forms of energy production for extend the oilfields life, reduce the climate exchange effects and supply the demand of the humanity in electricity terms. This post is an overview of how the design and thermodynamics offers an innovate way to generate energy as a response to the energy needs.
 
-This work was done in 2015 with a great team of physicists engineering students, Camila Orozco, Liceth Uchima and the leadership of Juan Botero in the National University of Colombia.
+This work was done in 2015 with a great team of physical engineering students, Camila Orozco, Liceth Uchima and the leadership of Juan Botero in the National University of Colombia.
 
 ![Stirling]({{site.baseurl}}/assets/img/Stirling/2ST_Exterior.jpg)
 
