@@ -10,6 +10,8 @@ tags: [Mechatronics, Thermodynamics, Design, Physics] # add tag
 comments: true
 ---
 
+Proposal for clean energy generation using a thermodynamic closed-cycle to convert sun light radiation to mechanical work.
+
 Nowadays, the energy production came in different forms, there is a major percent in the world that is produced by fossil fuels, as well as, the automotive sector is engaged with the oil as the main power, under those circumstances, there is a large budget invested to research in new forms of energy production for extend the oilfields life, reduce the climate exchange effects and supply the demand of the humanity in electricity terms. This post is an overview of how the design and thermodynamics offers an innovate way to generate energy as a response to the energy needs.
 
 This work was done in 2015 with a great team of physicists engineering students, Camila Orozco, Liceth Uchima and the leadership of Juan Botero in the National University of Colombia.
@@ -26,10 +28,7 @@ The Stirling engine cataloged as a external type use the source of energy outsid
 
 In the first place, the team started to research over the time the possible applications of Stirling cycle, looking that in a high percent of the cases it was used to energy generation, and the possible goal to accomplish was build a machine that use the sun light and convert it to mechanical work, indeed, the reason of use the sun for this purpose is due the environmental conditions of Colombia, we have this incredible source of energy almost all the year for being near to the ecuador center, hence, the develop of a prototype could lead to solve a huge energy problem in communities far away from the principal cities. There are towns in Colombia that don’t have access to electricity and clean water sources, in consequence, the health conditions is not good for the people leading to propagate diseases.
 
-![Stirling]({{site.baseurl}}/assets/img/Stirling/Animacion1.gif)
-
 Referring to the develop, this engine is the alpha type composed by two cylinders, the first one is the expansion cylinder and it is maintained at high temperature due the sun radiation that is gathered with a parabolic trough on the top of it, while the fluid of work is heated in one side, the other cylinder works as a compressor cooling the air, in the middle of the way between the two cylinders we could find the regenerator where the fluid passes in each cycle composed by a matrix of metal fine wire working as a heat exchange, the next image shows the main parts of the design.
-
 
 ![Stirling]({{site.baseurl}}/assets/img/Stirling/1ST_Interior.jpg)
 
