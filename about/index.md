@@ -3,11 +3,11 @@ layout: page
 title: About me
 tags: [Biografy, CV, Engineering, Life]
 date: 2020-08-24
-feature: assets/img/DavidAlvear-7.jpg
+feature: assets/img/about/DavidAlvear-7.jpg
 comments: false
 ---
 
-## A brief resume ...
+## A brief introduction ...
 
 Currently, there are a huge interest of companies to integrate things related on the new tech revolution, this will be an invest for a quick grow of them, then, my aproach as a Physical engineer combines, mechanical design, electronic design, data science, and technology integration, allowing to interact with different disciplines, also working on a team and adapting for different environments. due this skills, I have been working in colombian companies focused on, precision agriculture, textil and manufacture.
 
@@ -25,7 +25,7 @@ As a perspective of the future, I would like to continue my master degree in rob
 
 <a href="https://drive.google.com/file/d/1srHIY9mwXoYnVLh1V-AY835SMpci9AIo/view?usp=sharing"><b> Hoja de vida</b></a> Versión en español.
 
-Additionally, I would like to share with you some of my hobbies, a few amazing songs covers, and image, I will appreciate any comment. Thank you.
+Concluding, I would like to share you some of my hobbies, a few amazing songs covers, and images, I will appreciate any comment. Thank you.
 
 <a href="https://www.youtube.com/watch?v=UIHvS_BPVm8"><b> Link </b></a> Caotica belleza, Esteman, cover ... 
 
