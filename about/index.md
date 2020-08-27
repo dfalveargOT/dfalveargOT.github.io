@@ -3,11 +3,12 @@ layout: page
 title: About me
 tags: [Biografy, CV, Engineering, Life]
 date: 2020-08-24
+img: FlowersMachine.jpg # Add image post (optional)
+feature: assets/img/David.png
 comments: false
 ---
-    
-<center><a href="https://dfalveargot.github.io/"><b>Curriculum</b></a> Building page ...  !!! </center>
 
+## A brief resume ...
 
 Currently, there are a huge interest of companies to integrate things related on the new tech revolution, this will be an invest for a quick grow of them, then, my aproach as a Physical engineer combines, mechanical design, electronic design, data science, and technology integration, allowing to interact with different disciplines, also working on a team and adapting for different environments. due this skills, I have been working in colombian companies focused on, precision agriculture, textil and manufacture.
 
@@ -19,4 +20,24 @@ I consider that the professional life is strongly related with others aspects as
 
 As a perspective of the future, I would like to continue my master degree in robotics, or computer science, as well as, looking for a job in a tech company, where I could continue my growth learning new and amazing things, I’m on the way. Reach out to dfalvearg@gmail.com to connect!.
 
-Additionally, I would like to share with you some of my hobbies, a few amazing songs covers, I will appreciate any comment. Thank you.
+## Additional Information ...
+
+<a href="https://drive.google.com/file/d/1PGNaQ8AAWLL3gij0oCtVeYjSpv1TOqu6/view?usp=sharing"><b> Curriculum</b></a> English version.
+
+<a href="https://drive.google.com/file/d/1srHIY9mwXoYnVLh1V-AY835SMpci9AIo/view?usp=sharing"><b> Hoja de vida</b></a> Versión en español.
+
+Additionally, I would like to share with you some of my hobbies, a few amazing songs covers, and image, I will appreciate any comment. Thank you.
+
+Caotica belleza, cover ... <a href="https://www.youtube.com/watch?v=UIHvS_BPVm8"><b> Link </b></a>
+
+Bonita, cover ... <a href="https://www.youtube.com/watch?v=UIHvS_BPVm8"><b> Link </b></a>
+
+## Some adventures ...
+
+![photos]({{site.baseurl}}/assets/img/about/DavidAlvear_3.jpg)
+![photos]({{site.baseurl}}/assets/img/about/DavidAlvear_4.jpg)
+![photos]({{site.baseurl}}/assets/img/about/DavidAlvear_5.jpg)
+![photos]({{site.baseurl}}/assets/img/about/DavidAlvear_1.jpg)
+![photos]({{site.baseurl}}/assets/img/about/DavidAlvear_6.jpg)
+![photos]({{site.baseurl}}/assets/img/about/DavidAlvear_2.jpg)
+
