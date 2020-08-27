@@ -231,10 +231,6 @@ header .entry-meta {
         background-color: rgba($black, 0.6);
         background-blend-mode: multiply;
         background-position: center center;
-        
-        max-height: 80%;
-        max-width: 80%;
-        height: auto;
     }
     @media #{$medium} {
         color: white;
@@ -246,10 +242,6 @@ header .entry-meta {
         background-color: rgba($black, 0.6);
         background-blend-mode: multiply;
         background-position: center center;
-        
-        max-height: 80%;
-        max-width: 80%;
-        height: auto;
     }
     @media #{$notsmall} {
         color: white;
@@ -261,9 +253,6 @@ header .entry-meta {
         background-color: rgba($black, 0.4);
         background-blend-mode: multiply;
         background-position: center center;
-        
-        max-height: 80%;
-        max-width: 80%;
-        height: auto;
+
     }
 }
