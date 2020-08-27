@@ -3,8 +3,7 @@ layout: page
 title: About me
 tags: [Biografy, CV, Engineering, Life]
 date: 2020-08-24
-img: FlowersMachine.jpg # Add image post (optional)
-feature: assets/img/David.png
+feature: assets/img/DavidAlvear-7.jpg
 comments: false
 ---
 
@@ -28,16 +27,18 @@ As a perspective of the future, I would like to continue my master degree in rob
 
 Additionally, I would like to share with you some of my hobbies, a few amazing songs covers, and image, I will appreciate any comment. Thank you.
 
-Caotica belleza, cover ... <a href="https://www.youtube.com/watch?v=UIHvS_BPVm8"><b> Link </b></a>
+<a href="https://www.youtube.com/watch?v=UIHvS_BPVm8"><b> Link </b></a> Caotica belleza, Esteman, cover ... 
 
-Bonita, cover ... <a href="https://www.youtube.com/watch?v=UIHvS_BPVm8"><b> Link </b></a>
+<a href="https://drive.google.com/file/d/1qHl6s6TYIH20uWlfoYxMBApwgN8MIEUf/view?usp=sharing"><b> Link </b></a> Solo tengo un corazon, El jose, cover ... 
+
+<a href="https://www.youtube.com/watch?v=UIHvS_BPVm8"><b> Link </b></a> Bonita, choclok, cover ... 
 
 ## Some adventures ...
 
-![photos]({{site.baseurl}}/assets/img/about/DavidAlvear_3.jpg)
-![photos]({{site.baseurl}}/assets/img/about/DavidAlvear_4.jpg)
-![photos]({{site.baseurl}}/assets/img/about/DavidAlvear_5.jpg)
-![photos]({{site.baseurl}}/assets/img/about/DavidAlvear_1.jpg)
-![photos]({{site.baseurl}}/assets/img/about/DavidAlvear_6.jpg)
-![photos]({{site.baseurl}}/assets/img/about/DavidAlvear_2.jpg)
+![photos]({{site.baseurl}}/assets/img/about/DavidAlvear-3.jpg)
+![photos]({{site.baseurl}}/assets/img/about/DavidAlvear-4.jpg)
+![photos]({{site.baseurl}}/assets/img/about/DavidAlvear-5.jpg)
+![photos]({{site.baseurl}}/assets/img/about/DavidAlvear-1.jpg)
+![photos]({{site.baseurl}}/assets/img/about/DavidAlvear-6.jpg)
+![photos]({{site.baseurl}}/assets/img/about/DavidAlvear-2.jpg)
 
