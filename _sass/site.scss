@@ -88,7 +88,9 @@ body {
 	@include transition(.5s);
     opacity: 0.1;
 	@media #{$small} {
-		width: 60%;
+		width: 73%;
+        padding: 0 0.6em;
+	    box-shadow: none;
 	    box-shadow: none;
 	}
 	@media #{$medium} {
@@ -224,13 +226,14 @@ header .entry-meta {
     @media #{$small} {
         color: white;
         padding: 4em;
-        margin-left: -1rem;
-        margin-right: -1rem;
+        margin-left: -0.6rem;
+        margin-right: -0.6rem;
         margin-top: -2rem;
         border-radius: 3px 3px 0 0;
         background-color: rgba($black, 0.6);
         background-blend-mode: multiply;
         background-position: center center;
+
     }
     @media #{$medium} {
         color: white;
@@ -242,6 +245,7 @@ header .entry-meta {
         background-color: rgba($black, 0.6);
         background-blend-mode: multiply;
         background-position: center center;
+
     }
     @media #{$notsmall} {
         color: white;
