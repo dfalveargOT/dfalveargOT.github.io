@@ -9,7 +9,7 @@
 	text-align: justify;
     line-height: normal;
 	@media #{$small} {
-		padding: 0 .1em;
+		padding: 0 .6em;
         @include font-size(20);
         line-height: normal;    
 	}
