@@ -25,6 +25,8 @@ As a perspective of the future, I would like to continue my master degree in rob
 
 <a href="https://drive.google.com/file/d/1srHIY9mwXoYnVLh1V-AY835SMpci9AIo/view?usp=sharing"><b> Hoja de vida</b></a> Versión en español.
 
+<a href="http://www.reporteroindustrial.com/temas/Estudiantes-de-la-UN-desarrollaron-un-brazo-robotico-que-facilita-los-procesos-industriales+126414"><b> Link </b></a> National University of Colombia Interview of robotic arm.
+
 Concluding, I would like to share you some of my hobbies, a few amazing songs covers, and images, I will appreciate any comment. Thank you.
 
 <a href="https://www.youtube.com/watch?v=UIHvS_BPVm8"><b> Link </b></a> Caotica belleza, Esteman, cover ... 
