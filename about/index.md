@@ -42,3 +42,5 @@ Concluding, I would like to share you some of my hobbies, a few amazing songs co
 ![photos]({{site.baseurl}}/assets/img/about/DavidAlvear-6.jpg)
 ![photos]({{site.baseurl}}/assets/img/about/DavidAlvear-2.jpg)
 
+David Felipe Alvear Goyes - 2020.
+
