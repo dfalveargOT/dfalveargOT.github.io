@@ -9,7 +9,7 @@ comments: false
 
 ## A brief introduction ...
 
-Currently, there are a huge interest of companies to integrate things related on the new tech revolution, this will be an invest for a quick grow of them, then, my aproach as a Physical engineer combines, mechanical design, electronic design, data science, and technology integration, allowing to interact with different disciplines, also working on a team and adapting for different environments. due this skills, I have been working in colombian companies focused on, precision agriculture, textil and manufacture.
+Currently, there is a huge interest of companies to integrate things related on the new tech revolution, this will be an investment for a quick grow of them, then, my approach as a Physical engineer combines, mechanical design, electronic design, data science, and technology integration, allowing to interact with different disciplines, also working on a team and adapting for different environments. due to these skills, I have been working in Colombian companies focused on, precision agriculture, textile, and manufacture.
 
 I’m fueled with my passion since when I was a child, I always wanted to be an inventor, and build things with my hands, in fact, if David child asks me what am I doing now, I severely will answer that I’m making our dreams true, in addition, I consider study as a huge tool for my life, not only in professional fields, this could improve every aspect of life, and as an engineer, I’m always looking for solutions, keep learning is my motivation for world serving, in brief, I love the capacity to create ideas and making them true with my tech background. 
 
